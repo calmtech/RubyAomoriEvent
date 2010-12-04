@@ -1,2 +1,9 @@
+.bundle
+db/*.sqlite3
+log/*.log
+tmp/**/*
+DS_Store
+Thumbs.db
 .buildpath
 .project
+
